@@ -1,0 +1,40 @@
+body {
+    background-color: mediumorchid;
+}
+#p1 {
+    color: gold;
+}
+#p2 {
+    color: darkgray;
+    font-weight:bold;
+    font-size: 25px;
+    background-color: blue;
+
+}
+#p3 {
+    color: pink;
+    font-family: cursive;
+    font-style: italic;
+    text-decoration: underline;
+}
+#pretty {
+
+    padding: 50vh 10%;
+}
+#s1 {
+    font-weight: bold;
+    color: aliceblue;
+
+}
+#s2 {
+    font-size: 20px;
+    font-style: oblique;
+}
+#s3 {
+    background-color: bisque;
+    text-decoration: underline;
+}
+#s4 {
+    text-align: right;
+    font-style: italic;
+}
