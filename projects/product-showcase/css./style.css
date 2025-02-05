@@ -1,0 +1,53 @@
+* { 
+    background-color:pink;
+    box-sizing: border-box;
+}
+#whole-thing{
+    background-color:pink;
+}
+
+.body {
+    margin: 0px;
+    font-family: sans-serif; 
+}
+#hand{
+    width: 200px;
+
+}
+#navbar a,
+#footer a {
+    color: #fbe888;
+    text-decoration: none;
+    display: inline-block;
+    padding: 12px 12px 12px 0px;
+}
+
+#navbar-column,
+.center-column,
+#footer-column {
+    width: 500px;
+    margin: 0px auto;
+}
+
+.light-container {
+    background-color: pink;
+    padding: 36px 0px;
+}
+
+.dark-container {
+    padding: 36px 0px;
+}
+
+.side-by-side {
+    display: inline-block;
+    width: 49%;
+}
+
+.side-by-side img {
+    padding-left: 36px;
+    width: 100%;
+}
+
+#tt{
+    width: 100px;
+}
