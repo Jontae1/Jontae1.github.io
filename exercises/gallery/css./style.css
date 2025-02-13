@@ -1,0 +1,33 @@
+{
+    box-sizing: border-box
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#layout {
+    max-width: 80px;
+    margin: 48px auto;
+    text-align: center;
+}
+
+.horizontal-masonry-gallery-car{
+    display: flex;
+    flex-wrap:wrap;
+    gap: 24px;
+}
+
+#cars{
+    width: 2px;
+    padding: px;
+}
+
+
+.horizontal-masonry-gallery-car {
+    height: 25px;
+    flex: 1;
+    object-fit: cover;
+    max-width: 4px;
+}
