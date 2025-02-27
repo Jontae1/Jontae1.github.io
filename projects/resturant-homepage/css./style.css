@@ -2,3 +2,38 @@ body{
     background-color: black;
     color:rgb(122, 186, 255)
 }
+* {
+    box-sizing: border-box
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#hero-1 {
+    background-image: url("/projects/resturant-homepage/imgaes/backgroundpic.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position:center center;
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 100px;
+}
+
+#hero-1 h1 {
+    font-size: 40px; 
+    position: absolute;
+    top: 90%;
+    text-align: center;
+    position: relative;
+}
+
+#p-1{
+    font-size: 20px; 
+    position: absolute;
+    right:50%;
+    top: 110%;
+    text-align: center;
+    position: relative;
+}
