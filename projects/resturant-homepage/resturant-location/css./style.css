@@ -1,0 +1,11 @@
+body{
+    color: blue;
+    background: black;
+}
+#map{
+    border-image: auto;
+    border: 5px solid blue;
+    width: 780px;
+    margin-bottom: px;
+    max-height: 1199px;
+}
